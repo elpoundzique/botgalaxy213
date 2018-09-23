@@ -1,0 +1,1 @@
+[null,{"name":"wejście","temp":"4124","event-type":"6","actions":[{"info":"1","find":"wejscie","storage":"1","varName":"kanal","name":"Find Channel"},{"channel":"4","varName":"","message":"${tempVars(\"4124\")} dołączył na serwer! Zapoznaj się z trzema kanałami na górze, gdy otrzymasz rangę.","storage":"0","varName2":"","name":"Send Message"}]}]
